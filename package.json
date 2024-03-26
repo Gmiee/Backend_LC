@@ -24,6 +24,7 @@
     "jwt-decode": "^3.1.2",
     "mongoose": "^6.8.2",
     "nodemon": "^3.0.1",
-    "socket.io": "^4.6.1"
+    "socket.io": "^4.6.1",
+    "forwarded": "^0.2.0"
   }
 }
